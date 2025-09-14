@@ -1,0 +1,47 @@
+---
+title: "patrick"
+author: "Patrick Shea"
+date: "2025-09-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Patrick 
+
+-   I am a twin ! My twin brother's name is Colin and he lives in Chicago.
+
+-   My favorite places on the planet are river confluences. These three places are...
+
+    -   The confluence of the Snake River and the Salmon River (Oregon/Idaho)
+
+    -   The confluence of Green River and the Yampa River
+
+    -   The Confluence of the Middle for of the Salmon with the Salmon (Idaho)
+
+-   I went to college in Spokane, Washington.
+
+-   My favorite books are *The Name of the Wind* by Patrick Rothufus, *All the Light We Cannot See* by Anthony Doer, and *A Sand County Almanac* by Aldo Leopold.
+
+```{r}
+
+```
+
+```{r }
+
+
+
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
