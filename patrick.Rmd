@@ -3,8 +3,9 @@ title: "patrick"
 author: "Patrick Shea"
 date: "2025-09-14"
 output: 
-  html_document: 
-  theme: sandstone 
+  html_document:
+    theme: sandstone 
+
 ---
 
 ```{r setup, include=FALSE}
@@ -27,13 +28,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   My favorite books are *The Name of the Wind* by Patrick Rothufus, *All the Light We Cannot See* by Anthony Doer, and *A Sand County Almanac* by Aldo Leopold.
 
-```{r}
 
-```
-
-```{r}
-
-
-```
-
-## 
