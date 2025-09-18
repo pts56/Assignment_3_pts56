@@ -2,8 +2,9 @@
 title: "patrick"
 author: "Patrick Shea"
 date: "2025-09-14"
-output: html_document
-theme: sandstone 
+output: 
+  html_document: 
+  theme: sandstone 
 ---
 
 ```{r setup, include=FALSE}
