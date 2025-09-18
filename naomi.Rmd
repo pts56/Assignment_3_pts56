@@ -1,0 +1,15 @@
+---
+title: "Naomi.Rmd"
+output: html_document
+date: "2025-09-18"
+---
+
+## About me
+
+Hi! I'm Naomi, Patrick's partner for this assignment.
+
+-   I'm in MPS in Nature Resources and Environment
+
+-   I still struggle a bit using R, but so I'm amazed how many thing it can do!
+
+![Here's my favorite pokemon ;)](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/527.png)
