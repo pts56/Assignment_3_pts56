@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Patrick 
+## Patrick
 
 -   I am a twin ! My twin brother's name is Colin and he lives in Chicago.
 
